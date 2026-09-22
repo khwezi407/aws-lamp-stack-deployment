@@ -8,6 +8,8 @@ This project demonstrates how to provision and configure a complete LAMP web ser
 
 ## Architecture
 
+![Architecture Diagram](screenshots/01-architecture.jpg)
+
 **Flow:**
 1. Client sends an HTTP request
 2. Request enters the VPC through the public subnet
